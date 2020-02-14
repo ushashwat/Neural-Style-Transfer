@@ -1,5 +1,5 @@
 # Neural Style Transfer
-A Neural Algorithm of Artistic Style
+A Neural Algorithm of Artistic Style to manipulate a digital image so that it adopts the visual style of another image
 
 
 ### Acknowledgement
